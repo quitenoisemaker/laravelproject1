@@ -1,1 +1,1 @@
-Using laravel to create the full admin page of a blog. 
+A simple Laravel admin blog app. 
